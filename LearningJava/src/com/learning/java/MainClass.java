@@ -7,5 +7,9 @@ public class MainClass {
 		//Data Types 
 		DataTypes datatype = new DataTypes();
 		datatype.printAll();
+		
+		//TypeCasting 
+		TypeCasting typeCasting = new TypeCasting();
+		typeCasting.printAll();
 	}
 }
